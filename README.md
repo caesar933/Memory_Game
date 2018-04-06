@@ -15,7 +15,7 @@ To match the cards in as less moves and time as possible. You will be rated with
 
 # Play the game
 
-To play the game, click on this link:
+To play the game, click on this link: https://htmlpreview.github.io/?https://github.com/caesar933/Memory_Game/blob/master/index.html
 
 
 # Game engine
