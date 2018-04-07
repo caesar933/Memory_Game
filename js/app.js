@@ -53,6 +53,7 @@ function start() {
     minute = 0;
     timer.innerHTML = 'Timer: 0 minutes 0 s';
     clearInterval(gameTime);
+    openedCards = [];
 }
 
 
